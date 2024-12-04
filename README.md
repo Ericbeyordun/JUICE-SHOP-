@@ -1,5 +1,6 @@
 # JUICE-SHOP-
 A vulnerability assessment on OWASP Juice Shop using OWASP ZAP to scan for vulnerabilities such as SQLb injection, cross-site scripting (XXS), and authentication weakneasses
+
 *INSTALL NODE JS 22*
 + Type "node -v" to know if node js is installed, if not:
 + sudo apt-get install -y curl
