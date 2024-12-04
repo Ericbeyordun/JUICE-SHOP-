@@ -4,7 +4,7 @@ A vulnerability assessment on OWASP Juice Shop using OWASP ZAP to scan for vulne
 + Type "node -v" to know if node js is installed, if not:
 + sudo apt-get install -y curl
 + sudo curl -fsSL https://deb.nodesource.com/setup_22.x -o nodesource_setup.sh
-+ bash nodesource_setup.sh
++ sudo bash nodesource_setup.sh
 + sudo apt-get install -y nodejs
 + Now verify node installation with "node -v"
 
